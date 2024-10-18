@@ -1,0 +1,4 @@
+transformers==4.x.x
+datasets==2.x.x
+torch==2.x.x
+gradio==x.x.x
